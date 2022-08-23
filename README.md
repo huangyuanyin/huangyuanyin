@@ -35,6 +35,7 @@
 
 ### 开源项目
 - [基于xterm3 + websocket + python 实现网页版在线终端通过SSH连接服务器](https://github.com/huangyuanyin/hyy-webSSH-Termail)
+- [前端 + 后端 实现大文件〖切片上传〗](https://github.com/huangyuanyin/hyy-video-uploader)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
