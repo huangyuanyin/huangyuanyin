@@ -34,7 +34,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- [基于xterm3 + websocket + python 实现网页版在线终端通过SSH连接服务器](https://github.com/huangyuanyin/hyy-webSSH-Termail)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
