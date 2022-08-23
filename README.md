@@ -5,7 +5,7 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+### I'm 黄原寅
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
@@ -42,9 +42,8 @@
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [CSDN](https://blog.csdn.net/weixin_42365757?spm=1000.2115.3001.5343)
+- [CSS Battle](https://cssbattle.dev/player/IMDu4D5SsrYED3MnvyqO3Vf9Lw43)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
