@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 开源项目
 - [基于xterm3 + websocket + python 实现网页版在线终端通过SSH连接服务器](https://github.com/huangyuanyin/hyy-webSSH-Termail)
 - [前端 + 后端 实现大文件〖切片上传〗](https://github.com/huangyuanyin/hyy-video-uploader)
