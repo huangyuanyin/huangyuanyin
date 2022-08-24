@@ -15,11 +15,14 @@
 - ⚡ Fun fact: Data Analysis📊
 
 ### 关于我
-- [CSDN](https://blog.csdn.net/weixin_42365757?spm=1000.2115.3001.5343)
+- [CSDN博客](https://blog.csdn.net/weixin_42365757?spm=1000.2115.3001.5343)
 - [CSS Battle](https://cssbattle.dev/player/IMDu4D5SsrYED3MnvyqO3Vf9Lw43)
 
 ### 🛠 技术栈 | Tech Stack  <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true" />
 
+- 💻 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 💻 &#160; ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
