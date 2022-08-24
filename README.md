@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 [![手机号](https://img.shields.io/badge/手机号-17808098401-red.svg "17908098401")](mailto:17808098401)
-[![WX](https://img.shields.io/badge/wx-17808098401-red.svg "17908098401")](mailto:17808098401)
+[![wx](https://img.shields.io/badge/wx-17808098401-red.svg "17908098401")](mailto:17808098401)
 [![QQ](https://img.shields.io/badge/-3443718488-c14438?style=flat&logo=tencentqq&logoColor=white&link=mailto:3443718488)](mailto:3443718488)
 ---
 
