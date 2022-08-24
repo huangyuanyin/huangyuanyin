@@ -1,18 +1,18 @@
 ## Hello GitHub Fans 👋
 [![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 [![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+[![QQ](https://img.shields.io/badge/-3443718488-c14438?style=flat&logo=tencentqq&logoColor=white&link=mailto:3443718488)](mailto:3443718488)
 ---
 
 <img align="right" alt="GIF" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
 
 ### I'm 黄原寅
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- Graduated from computer and Business Administration. & Codeing enthusiasts. 
 - 🌱 Currently working in Beijing, China.
 - 💬 Ask me about TypeScript, Vue and my projects on [3443718488@qq.com](mailto:3443718488@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- ⭐ If there is a good pit, I hope you can contact me
+- ⚡ Fun fact: performance optimization && visualization📊
 
 ### 关于我
 - [CSDN博客](https://blog.csdn.net/weixin_42365757?spm=1000.2115.3001.5343)
