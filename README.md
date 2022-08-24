@@ -3,7 +3,12 @@
 [![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
 [![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 ---
+
 <img align="right" alt="GIF" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
+
+<img width="50%" align="right" height="auto" style="margin-bottom: 10px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact" />
+
+<img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true" />
 
 ### I'm 黄原寅
 
@@ -33,9 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 开源项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail)](https://github.com/anuraghazra/github-readme-stats)
