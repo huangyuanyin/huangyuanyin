@@ -27,7 +27,7 @@
 - 💻 &#160; ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🌐 &#160; ![ElementUI](https://img.shields.io/badge/-ElementUI-333333?style=flat&logo=element) 
+- 🌐 &#160; ![ElementPlus](https://img.shields.io/badge/-ElementPlus-333333?style=flat&logo=element) 
 ![Ant Design](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=antdesign&logoColor=563D7C)
 ![Vant](https://img.shields.io/badge/-Vant-99CC66?style=flat&logo=vant&logoColor=99CC33)
 ![Echarts](https://img.shields.io/badge/-Echarts-66CCFF?style=flat&logo=echarts&logoColor=563D7C)
