@@ -6,10 +6,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
 
-<img width="50%" align="right" height="auto" style="margin-bottom: 10px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact" />
-
-<img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true" />
-
 ### I'm 黄原寅
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
@@ -22,7 +18,7 @@
 - [CSDN](https://blog.csdn.net/weixin_42365757?spm=1000.2115.3001.5343)
 - [CSS Battle](https://cssbattle.dev/player/IMDu4D5SsrYED3MnvyqO3Vf9Lw43)
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 技术栈 | Tech Stack  <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true" />
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -38,11 +34,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-
-
-### 开源项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader)](https://github.com/anuraghazra/github-readme-stats)
+### 开源项目 
+<img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact&theme=cobalt" />
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
