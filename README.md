@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
+[![手机号](https://img.shields.io/badge/手机号-17808098401-red.svg "17908098401")](mailto:17808098401)
+[![WX](https://img.shields.io/badge/wx-17808098401-red.svg "17908098401")](mailto:17808098401)
 [![QQ](https://img.shields.io/badge/-3443718488-c14438?style=flat&logo=tencentqq&logoColor=white&link=mailto:3443718488)](mailto:3443718488)
 ---
 
