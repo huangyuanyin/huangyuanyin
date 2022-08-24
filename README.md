@@ -1,7 +1,7 @@
 ## Hello GitHub Fans 👋
 [![手机号](https://img.shields.io/badge/手机号-17808098401-red.svg "17908098401")](mailto:17808098401)
 [![wx](https://img.shields.io/badge/wx-17808098401-red.svg "17908098401")](mailto:17808098401)
-[![QQ](https://img.shields.io/badge/-3443718488-c14438?style=flat&logo=tencentqq&logoColor=white&link=mailto:3443718488)](mailto:3443718488)
+[![QQ](https://img.shields.io/badge/-3443718488@qq.com-c14438?style=flat&logo=tencentqq&logoColor=white&link=mailto:3443718488@qq.com)](mailto:3443718488@qq.com)
 ---
 
 <img align="right" alt="GIF" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
