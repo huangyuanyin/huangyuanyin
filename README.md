@@ -43,8 +43,8 @@
  
  ⭐ [一个基于Vue3.2的思维导图](https://huangyuanyin-mindmap.vercel.app/#/)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/huangyuanyin/hyy-webSSH-Termail)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/huangyuanyin/hyy-video-uploader)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
