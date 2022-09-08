@@ -41,6 +41,7 @@
 ### <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>开源项目 
 <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact&theme=cobalt" />
  
+ - ⚡ [一个基于Vue3.2的思维导图](https://huangyuanyin-mindmap.vercel.app/#/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
