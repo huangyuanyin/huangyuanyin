@@ -17,6 +17,7 @@
 ### 关于我
 - [CSDN博客](https://blog.csdn.net/weixin_42365757?spm=1000.2115.3001.5343)
 - [CSS Battle](https://cssbattle.dev/player/IMDu4D5SsrYED3MnvyqO3Vf9Lw43)
+- [npm 仓库](https://www.npmjs.com/~huangyuanyin)
 
 ### 🛠 技术栈 | Tech Stack  <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true" />
 
@@ -42,6 +43,8 @@
 <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact&theme=cobalt" />
  
  ⭐ [一个基于Vue3.2的思维导图](https://huangyuanyin-mindmap.vercel.app/#/)
+ 
+ ⚡ [一个基于Node的项目模板cli](https://www.npmjs.com/package/front-template-cli)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/huangyuanyin/hyy-webSSH-Termail)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/huangyuanyin/hyy-video-uploader)
