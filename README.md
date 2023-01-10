@@ -46,6 +46,8 @@
  
  ⚡ [一个基于Node的项目模板cli](https://www.npmjs.com/package/front-template-cli)
  
+ 🌝 [一个简单的用于快速删除函数的VS Code插件 - Delete Function](https://marketplace.visualstudio.com/items?itemName=huangyuanyin.deleteFunction)
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/huangyuanyin/hyy-webSSH-Termail)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/huangyuanyin/hyy-video-uploader)
 
