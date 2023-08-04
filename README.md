@@ -39,10 +39,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>开源项目 
+### <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> 开源项目 
 <img width="50%" align="right" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact&theme=cobalt" />
  
- ⭐ [一个基于Vue3.2的思维导图](https://huangyuanyin-mindmap.vercel.app/#/)
+ ⭐ [一个基于Vue3.2的思维导图](https://huangyuanyin.gitee.io/hyy-vue3-mindmap/#/)
+
+ 🙀 [一个简洁的json格式化插件](https://huangyuanyin.gitee.io/hyy-json-tree-view/) 
  
  ⚡ [一个基于Node的项目模板cli](https://www.npmjs.com/package/front-template-cli)
  
