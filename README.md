@@ -41,6 +41,10 @@
 
 ### <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> 开源项目 
 <img width="50%" align="right" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact&theme=cobalt" />
+
+ 🧩 [vite-plugin-client-error-logger](https://github.com/huangyuanyin/vite-plugin-client-error-logger) — Vite 开发环境浏览器错误收集插件，自动采集运行时异常并写入本地日志。
+
+ 🔎 [vite-plugin-react-fiber-source](https://github.com/huangyuanyin/vite-plugin-react-fiber-source) — 为 React 19 开发运行时注入源码位置信息，辅助元素检查器与源码跳转。[技术说明](https://github.com/huangyuanyin/vite-plugin-react-fiber-source/blob/master/PLUGIN_SHARED.md)
  
  ⭐ [一个基于Vue3.2的思维导图](https://huangyuanyin.gitee.io/hyy-vue3-mindmap/#/)
 
