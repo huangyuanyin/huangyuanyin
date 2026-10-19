@@ -19,7 +19,7 @@
 - [CSS Battle](https://cssbattle.dev/player/IMDu4D5SsrYED3MnvyqO3Vf9Lw43)
 - [npm 仓库](https://www.npmjs.com/~huangyuanyin)
 
-### 🛠 技术栈 | Tech Stack  <img width="50%" align="right" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true" />
+### 🛠 技术栈 | Tech Stack  <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn" />
 
 - 💻 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -40,7 +40,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> 开源项目 
-<img width="50%" align="right" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact&theme=cobalt" />
+<img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyuanyin&layout=compact&theme=cobalt" />
 
  🧩 [vite-plugin-client-error-logger](https://github.com/huangyuanyin/vite-plugin-client-error-logger) — Vite 开发环境浏览器错误收集插件，自动采集运行时异常并写入本地日志。
 
@@ -56,8 +56,8 @@
  
  🔮 [为你的团队提供常用代码片段 - Vue-Snippets-VSCode](https://marketplace.visualstudio.com/items?itemName=huangyuanyin.Vue-Snippets-VSCode)
  
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/huangyuanyin/hyy-webSSH-Termail)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/huangyuanyin/hyy-video-uploader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/huangyuanyin/hyy-webSSH-Termail)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/huangyuanyin/hyy-video-uploader)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
