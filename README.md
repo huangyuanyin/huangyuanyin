@@ -56,8 +56,8 @@
  
  🔮 [为你的团队提供常用代码片段 - Vue-Snippets-VSCode](https://marketplace.visualstudio.com/items?itemName=huangyuanyin.Vue-Snippets-VSCode)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-webSSH-Termail&theme=moltack)](https://github.com/huangyuanyin/hyy-webSSH-Termail)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-video-uploader&theme=moltack)](https://github.com/huangyuanyin/hyy-video-uploader)
+[![vite-plugin-client-error-logger](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=vite-plugin-client-error-logger&theme=moltack)](https://github.com/huangyuanyin/vite-plugin-client-error-logger)
+[![hyy-vue3-mindMap](https://github-readme-stats.vercel.app/api/pin/?username=huangyuanyin&repo=hyy-vue3-mindMap&theme=moltack)](https://github.com/huangyuanyin/hyy-vue3-mindMap)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
