@@ -21,23 +21,13 @@
 
 ### 🛠 技术栈 | Tech Stack  <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=huangyuanyin&count_private=true&show_icons=true&theme=tokyonight&locale=cn" />
 
-- 💻 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-- 💻 &#160; ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🌐 &#160; ![ElementPlus](https://img.shields.io/badge/-ElementPlus-333333?style=flat&logo=element) 
-![Ant Design](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=antdesign&logoColor=563D7C)
-![Vant](https://img.shields.io/badge/-Vant-99CC66?style=flat&logo=vant&logoColor=99CC33)
-![Echarts](https://img.shields.io/badge/-Echarts-66CCFF?style=flat&logo=echarts&logoColor=563D7C)
-![腾讯地图](https://img.shields.io/badge/-腾讯地图-FFFF33?style=flat&logo&logoColor=563D7C)
-- 🛢 &#160; ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- **前端：** ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs&logoColor=FFFFFF) ![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vuedotjs&logoColor=4FC08D) ![Zustand](https://img.shields.io/badge/Zustand-333333?style=flat) ![CanvasKit](https://img.shields.io/badge/CanvasKit-333333?style=flat) ![Tiptap](https://img.shields.io/badge/Tiptap-333333?style=flat)
+
+- **后端：** ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs&logoColor=5FA04E) ![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E) ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=44B78B) ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=FF4438) ![BullMQ](https://img.shields.io/badge/BullMQ-333333?style=flat)
+
+- **Agents：** ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-333333?style=flat) ![LiteLLM](https://img.shields.io/badge/LiteLLM-333333?style=flat) ![MCP](https://img.shields.io/badge/MCP-333333?style=flat) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-333333?style=flat) ![Handoff](https://img.shields.io/badge/Handoff-333333?style=flat)
+
+- **基础设施：** ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF) ![Rspack](https://img.shields.io/badge/Rspack-333333?style=flat) ![pnpm](https://img.shields.io/badge/pnpm-333333?style=flat&logo=pnpm&logoColor=F69220) ![Nx](https://img.shields.io/badge/Nx-333333?style=flat&logo=nx&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=2496ED) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-333333?style=flat&logo=gitlab&logoColor=FC6D26) ![UCloud Sandbox](https://img.shields.io/badge/UCloud_Sandbox-333333?style=flat) ![Sentry](https://img.shields.io/badge/Sentry-333333?style=flat&logo=sentry&logoColor=E8C9BC) ![PostHog](https://img.shields.io/badge/PostHog-333333?style=flat&logo=posthog&logoColor=F9BD2B) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-333333?style=flat&logo=opentelemetry&logoColor=F5A800)
 
 <br clear="all" />
 
